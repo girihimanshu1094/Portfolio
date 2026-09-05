@@ -12,7 +12,7 @@ export const projects = [
       "Order tracking"
     ],
     github: "https://github.com/girihimanshu1094/QuickBite",
-    demo: "https://your-demo-link.com"
+    demo: "https://quick-bite-zeta-ochre.vercel.app/"
   },
   {
     name: "GetHired",
@@ -26,7 +26,7 @@ export const projects = [
       "Recruiter job management"
     ],
     github: "https://github.com/girihimanshu1094/GetHired",
-    demo: "https://your-demo-link.com"
+    demo: "https://get-hired-beryl.vercel.app/"
   },
   
   {
